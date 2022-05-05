@@ -4,6 +4,8 @@ CIFAR-10을 돌리는 CNN의 Input Image를 내가 만들고 싶다!
 
 참고자료 : https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=cenodim&logNo=220946688251
 
+ipynb file : https://colab.research.google.com/drive/1raKATPrLo0lfR3Rru2U6_gXKhLroqvZF#scrollTo=3XapFS1mH8WS
+
 # 원리
 CIFAR-10 예제에 사용되는 Binaray 파일을 만든 후, input 데이터의 위치를 CIFAR-10 Dataset에서 내가 만든 Binaray File 위치로 바꾸면 된다.
 
